@@ -2,7 +2,7 @@
 
 This publish package contains:
 - one simple Python scraper for RAWG
-- one browser userscript for manual game collection on rawg.io
+- one browser userscript for manual game collection on rawg.io (online games)
 
 No name formating is applied. Field names are kept as RAWG names.
 
